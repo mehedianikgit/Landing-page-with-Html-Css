@@ -192,11 +192,36 @@ ul li a {
   font-size: 40px;
   line-height: 50px;
   border-right: 2px solid grey;
-  padding-left: 100px;
+  padding-left: 50px;
+  margin-right: 50px;
 }
 .qute_div p{
     font-size: 16px;
     line-height: 26px;
-    margin-left: 50px;
+    margin-left: 30px;
     margin-top: 35px;
+}
+.auto_box {
+    width: 33%;
+    margin-bottom: 120px;
+}
+.auto_box h1 {
+    font-size: 20px;
+    line-height: 58px;
+}
+.auto_box p{
+    font-size: 16px;
+    line-height: 26px;
+}
+.payouts_div{
+    display: flex;
+}
+.payouts{
+    color:#f55767 ;
+}
+.network{
+    color: #2563ff;
+}
+.rewards{
+    color: #40975f;
 }
