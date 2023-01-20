@@ -118,7 +118,64 @@ ul li a {
     margin-top: 40px;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 170px;
 }
 .company_logo{
     width: 17%;
+}
+.feature_sec{
+    /* margin-top: 170px; */
+    display: flex;
+}
+.feature_image_div{
+    background-image: url(images/Ellipse\ 1.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    width: 55%;
+}
+.feat_content{
+    width: 45%;
+}
+.feat_heading{
+    margin-bottom: 80px;
+}
+.feat_heading h1{
+    font-size: 36px;
+    line-height: 46px;
+}
+.feat_heading p{
+    font-size: 16px;
+    list-style: 26px;
+    margin-top: 30px;
+}
+.feat_block{
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.feat_icon{
+    width: 20%;
+    display: inline;
+    margin-top: 40px;
+}
+.feat_descrip{
+    width: 80%;
+}
+.feat_descrip h3{
+    font-size: 20px;
+    line-height: 58px;
+}
+.fast_h3{
+    color: #f55767;
+}
+.feat_descrip p{
+    font-size: 16px;
+    line-height: 26px;
+    word-spacing: 4px;
+}
+.proto_h3{
+    color: #2563ff;
+}
+.vector_h3{
+    color: #40975f;
 }
