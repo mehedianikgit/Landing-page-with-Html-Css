@@ -124,7 +124,7 @@ ul li a {
     width: 17%;
 }
 .feature_sec{
-    /* margin-top: 170px; */
+    margin-bottom: 180px;
     display: flex;
 }
 .feature_image_div{
@@ -178,4 +178,25 @@ ul li a {
 }
 .vector_h3{
     color: #40975f;
+}
+
+.qute_sec{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 120px;
+}
+.qute_div{
+    width: 50%;
+}
+.qute_div h1{
+  font-size: 40px;
+  line-height: 50px;
+  border-right: 2px solid grey;
+  padding-left: 100px;
+}
+.qute_div p{
+    font-size: 16px;
+    line-height: 26px;
+    margin-left: 50px;
+    margin-top: 35px;
 }
