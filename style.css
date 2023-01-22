@@ -28,16 +28,16 @@ body{
     float: right;
     
 }
-ul {
+.menu ul {
     float:  left;
     margin-right: 20px;
 }
-ul li {
+.menu ul li {
  list-style: none;
  display: inline-block;
  margin: 0 20px;
 }
-ul li a {
+.menu ul li a {
     text-decoration: none;
     font-size: 16px;
     font-weight: 500;
@@ -393,6 +393,10 @@ hr {
 .clint_feed img {
     padding-right: 20px;
 }
+.mail{
+    background-color: #f55767;
+    padding: 5px;
+}
 
 .download_sec{
     height: 410px;
@@ -420,10 +424,30 @@ hr {
 .footer{
     text-align: center;
     background-color:#09142e ;
+
 }
 .footer img {
     margin-top: 115px;
 }
-.footer_manu{
+.footer_menu ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer_menu ul {
+    margin-right: 20px;
     margin-top: 50px;
+}
+.footer_menu ul li {
+ list-style: none;
+ display: inline-block;
+ margin: 0 20px;
+}
+.footer_menu_p {
+    color: #838080;
+    margin-top: 60px;
+    font-size: 14px;
+    padding-bottom: 30px;
 }
