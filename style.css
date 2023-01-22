@@ -124,7 +124,7 @@ ul li a {
     width: 17%;
 }
 .feature_sec{
-    margin-bottom: 180px;
+    margin-bottom: 120px;
     display: flex;
 }
 .feature_image_div{
@@ -203,7 +203,6 @@ ul li a {
 }
 .auto_box {
     width: 33%;
-    margin-bottom: 120px;
 }
 .auto_box h1 {
     font-size: 20px;
@@ -224,4 +223,61 @@ ul li a {
 }
 .rewards{
     color: #40975f;
+}
+
+.db_sec{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 75px;
+    margin-top: 120px;
+}
+
+.db_image{
+    width: 50%;
+}
+.db_elemnts{
+    width: 50%;
+    margin-top: 130px;
+    margin-left: 120px;
+}
+.db_elemnts h1 {
+    font-size: 36px;
+    line-height: 46px;
+}
+.db_elemnts p{
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+}
+.db_elemnts button{
+    margin-top: 40px;
+}
+
+hr {
+    opacity: 0.2;
+    margin-bottom: 140px;
+}
+.why_sec{
+    margin-bottom: 100px;
+}
+.why_sec h1 {
+    text-align: center;
+    font-size: 36px;
+    line-height: 46px;
+ }
+.why_sec p {
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 40px;
+ }
+
+ .services{
+    margin-bottom: 75px;
+ }
+ .services_item {
+    text-align: center;
+ }
+.services_item h1{
+    color: black;
 }
